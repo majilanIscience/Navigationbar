@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background-color: darkgray;
+  background-image:url(https://images.pexels.com/photos/28995593/pexels-
+  photo-28995593/free-photo-of-scenic-mountain-road-in-trentino-south-
+  tyrol.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load) ;
+}
+h1{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+p{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+/* .media{
+     display: block;
+     align-items: center;
+} */
+/* .media video{
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height:50vh;
+    margin: 20px 160px;
+} */
+ /* figcaption{
+    font-size: 10px;
+    font-family: monospace;
+    font-weight: lighter;
+    text-align: center;
+} */
+div p{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color:#000 ;
+}
+.history{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+img{
+    justify-content: center;
+    align-items: center;
+    width:30%;
+    height:30vh;
+    margin-left: 450px;
+    margin-top: 30px;
+}
+figcaption{
+    text-align: center;
+}
